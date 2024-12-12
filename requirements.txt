@@ -1,4 +1,4 @@
-flask==2.3.2
-Werkzeug==2.3.6
-gunicorn==21.0.1
-flask-Cors==3.1.0
+flask
+Werkzeug
+gunicorn
+flask-cors
